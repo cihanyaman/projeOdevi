@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgVPZq/7yvnOFZdMmup9U3UINFrrjnJIGQib7WiTojYl6K6MN8i7ZAoAlh0k1GP2G3fTC72nOn5CKnKjROJgYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\yazılım yapimi ödevi\\borsaSatisi\\borsaSatisi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
